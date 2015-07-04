@@ -4449,6 +4449,8 @@ gov.tw
 @@||youku.com
 @@||iqiyi.com
 @@||163.com
+@@||douban.com
+@@||zhihu.com
 @@||weibo.com
 @@||qq.com
 @@||sina.cn
